@@ -182,8 +182,8 @@ The following machine learning algorithms were used in this project:
 
 The performance of each algorithm was evaluated using the accuracy score. The results are as follows:
 
-- Random Forest: [Accuracy]
-- XGBoost: [Accuracy]
+- Random Forest: [0.7164285714285714]
+- XGBoost: [0.7325238095238096]
 
 ## Contributing
 
